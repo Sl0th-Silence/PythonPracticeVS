@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonPractice", "PythonPractice.pyproj", "{564505D2-846F-47B3-9F7A-AAC503548AE7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonOOP", "..\PythonOOP\PythonOOP.pyproj", "{10B11001-0664-45E8-AD00-D683CDB697A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564505D2-846F-47B3-9F7A-AAC503548AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564505D2-846F-47B3-9F7A-AAC503548AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B11001-0664-45E8-AD00-D683CDB697A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B11001-0664-45E8-AD00-D683CDB697A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B1C07CF-9693-46B3-BB6B-5AC7230CD8AD}
+	EndGlobalSection
+EndGlobal
